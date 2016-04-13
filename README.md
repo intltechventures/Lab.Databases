@@ -1,2 +1,4 @@
-# Lab.SQL
-A repository that serves as my lab for exploring the SQL language 
+# Lab.Databases
+A repository that serves as my lab for exploring various database technologies
+
+

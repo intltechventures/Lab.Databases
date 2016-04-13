@@ -1,1 +1,1 @@
-Lab.SQL > DB2
+Lab.Databases > DB2

@@ -1,1 +1,1 @@
-Lab.SQL > MariaDB
+Lab.Databases > MariaDB

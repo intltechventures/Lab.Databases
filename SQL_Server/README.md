@@ -1,1 +1,1 @@
-Lab.SQL > SQL Server
+Lab.Databases > SQL Server

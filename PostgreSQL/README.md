@@ -1,1 +1,1 @@
-Lab.SQL > PostgreSQL
+Lab.Databases > PostgreSQL
