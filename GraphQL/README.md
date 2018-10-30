@@ -2,6 +2,11 @@
 GraphQL Resources
 ==== 
 
+References
+* https://graphql.org/
+* https://graphql.org/learn/
+* https://graphql.org/code/
+
 
 
 
