@@ -13,9 +13,11 @@
       * ```);```
 
 
-## Notes (TO DO: find source to cite for this info):
+## Notes:
 - VARCHAR(x) or NVARCHAR(x)?
-  + VARCHAR stores non-Unicode strings (1 byte per character)
-  + NVARCHAR stores everything in a 2-byte-per-character Unicode mode.
+  + https://stackoverflow.com/questions/9207404/whats-best-sql-datatype-for-storing-json-string
+    * "VARCHAR stores non-Unicode strings (1 byte per character)"
+    * "NVARCHAR stores everything in a 2-byte-per-character Unicode mode."
+    * (TO-DO: find MS SQL Server source docs to cite for this)
 
 
