@@ -7,3 +7,7 @@
   + http://tatiyants.com/
     * http://tatiyants.com/pev/#/plans
 
+- https://explain.depesz.com/
+  + https://gitlab.com/depesz/explain.depesz.com
+
+
