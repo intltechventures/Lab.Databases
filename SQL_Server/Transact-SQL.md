@@ -26,5 +26,10 @@
   + To initialize a time/date field - to use UTC time/date, use ```SYSUTCDATETIME```
     
 
+- Assign a GUID/UUID
+  + ```NEWID()```
+  + [NEWID (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/functions/newid-transact-sql?view=sql-server-2017)
+    * "Creates a unique value of type ```uniqueidentifier```"
+    * "```NEWID()``` is compliant with [RFC4122](https://tools.ietf.org/html/rfc4122)."
 
 
