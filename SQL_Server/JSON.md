@@ -7,6 +7,10 @@
   + "If you must create a query or report on JSON data, you can easily convert JSON data to rows and columns by calling the OPENJSON rowset function. For more information, see Convert JSON Data to Rows and Columns with OPENJSON (SQL Server)."
     * ```DECLARE @jsonVariable NVARCHAR(MAX)```
 
+
+
+## JSON Column Definition
+
 - [Store JSON documents in SQL Server or SQL Database](https://docs.microsoft.com/en-us/sql/relational-databases/json/store-json-documents-in-sql-tables?view=sql-server-2017)
   + Store JSON data in columns defined as ```nvarchar(max)```
   + Example:
@@ -23,11 +27,18 @@
 
 
 ## Builtin JSON Functions (TO-DO: Add descriptions, examples, links to documentation)
+
 - ```ISJSON```
+
 - ```JSON_VALUE```
+
 - ```JSON_QUERY```
+
 - ```JSON_MODIFY```
+
 - ```OPENJSON```
+  * https://docs.microsoft.com/en-us/sql/t-sql/functions/openjson-transact-sql?view=sql-server-2017
+
 - ```FOR JSON```
 
 

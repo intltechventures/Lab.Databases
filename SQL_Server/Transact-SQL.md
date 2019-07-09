@@ -1,6 +1,11 @@
 
 # Transact SQL Resources
 
+
+## SQL Server 2019 References
+
+
+
 ## SQL Server 2017 References
 * https://docs.microsoft.com/en-us/sql/database-engine/sql-server-database-engine-overview?view=sql-server-2017
 * https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-2017
@@ -31,5 +36,17 @@
   + [NEWID (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/functions/newid-transact-sql?view=sql-server-2017)
     * "Creates a unique value of type ```uniqueidentifier```"
     * "```NEWID()``` is compliant with [RFC4122](https://tools.ietf.org/html/rfc4122)."
+
+
+
+- Initial a CREATED_DATE column with UTC Date/Time
+  + Set initial value with ```GETUTCDATE()```
+  + https://docs.microsoft.com/en-us/sql/t-sql/functions/getutcdate-transact-sql?view=sql-server-2017
+    * SYSDATETIME and SYSUTCDATETIME have more fractional seconds precision than GETDATE and GETUTCDATE. 
+    * SYSDATETIMEOFFSET includes the system time zone offset. SYSDATETIME, SYSUTCDATETIME, and SYSDATETIMEOFFSET can be assigned to a variable of any of the date and time types.
+  + https://docs.microsoft.com/en-us/sql/t-sql/functions/date-and-time-data-types-and-functions-transact-sql?view=sql-server-2017
+  + https://www.w3schools.com/sql/func_sqlserver_getutcdate.asp
+  + Why Use UTC? GETUTCDATE () can be used to store the timestamp that is independent of Time Zones.
+
 
 
