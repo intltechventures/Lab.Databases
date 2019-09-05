@@ -1,8 +1,7 @@
 
-GraphQL Resources
-==== 
+# GraphQL Resources
 
-References
+## References
 * https://graphql.org/
 * https://graphql.org/learn/
 * https://graphql.org/code/
@@ -10,7 +9,7 @@ References
 
 
 
-Testing
+## Testing
 * https://github.com/opentable/graphql-query-generator
   * http://tech.toptable.co.uk/blog/2017/06/16/pragmatic-testing-with-graphql/ 
 
