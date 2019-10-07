@@ -36,7 +36,8 @@
   + [NEWID (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/functions/newid-transact-sql?view=sql-server-2017)
     * "Creates a unique value of type ```uniqueidentifier```"
     * "```NEWID()``` is compliant with [RFC4122](https://tools.ietf.org/html/rfc4122)."
-
+    * ```uniqueidentifier``` is a 16 byte binary SQL Server data tpe this is globally unique across tables, databases, and servers.
+    * The term GUID stands for *Globally Unique Identifier*
 
 
 - Initial a CREATED_DATE column with UTC Date/Time
