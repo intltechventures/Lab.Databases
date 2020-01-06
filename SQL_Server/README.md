@@ -1,14 +1,11 @@
-Lab.Databases > SQL Server
-==== 
+# Lab.Databases > SQL Server
 
-### SQL Server 2017 References
-* https://docs.microsoft.com/en-us/sql/?view=sql-server-2017
-* https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-2017
-* [SQL Tools and Utilities](https://docs.microsoft.com/en-us/sql/tools/overview-sql-tools?view=sql-server-2017)
-* [SQL Command Prompt Utilities (Database Engine](https://docs.microsoft.com/en-us/sql/tools/command-prompt-utility-reference-database-engine?view=sql-server-2017)
+## Background Reading
+- https://en.wikipedia.org/wiki/Microsoft_SQL_Server
+- https://en.wikipedia.org/wiki/History_of_Microsoft_SQL_Server
 
 
-### Downloads
+## Downloads
 * SQL Server
   * https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 * SQL Server 2017 Management Studio (SSMS)
@@ -19,6 +16,6 @@ Lab.Databases > SQL Server
   * REporting Tools (RT) 
 
 
-### Static Code Analysis of T-SQL 
+## Static Code Analysis of T-SQL 
 * https://rules.sonarsource.com/tsql
 
