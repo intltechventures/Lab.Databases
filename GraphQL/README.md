@@ -17,6 +17,6 @@
 
 ## Suggested Books
 - [The Little Book of GraphQL Schema Design, Building and evolving great GraphQL APIs at scale, by Marc-Andre Giroux](https://book.graphqlschemadesign.com/)
-
+  + https://productionreadygraphql.com/book/
 
 
