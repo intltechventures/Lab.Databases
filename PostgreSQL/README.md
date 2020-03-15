@@ -24,3 +24,9 @@
 ## Anti-Patterns
 - https://wiki.postgresql.org/wiki/Don%27t_Do_This
 
+
+
+## Interesting Blogs
+- https://www.2ndquadrant.com/en/blog/
+
+
