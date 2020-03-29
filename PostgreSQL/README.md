@@ -13,11 +13,15 @@
 ## Community Resources
 - https://planet.postgresql.org/
 - https://wiki.postgresql.org/wiki/Main_Page
+- https://postgresql.life/
 
 
 ## Forums and Discussion Resources
 - https://postgres-slack.herokuapp.com/
+
 - https://www.postgresql.org/community/irc/
+
+- https://www.postgresql.org/list/
 
 
 
