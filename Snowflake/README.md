@@ -5,16 +5,22 @@
 - https://docs.snowflake.com/en/
 - https://docs.snowflake.com/en/user-guide/intro-key-concepts.html
 
+- https://docs.snowflake.com/en/user-guide/admin-security.html
+
+
 - https://www.snowflake.com/product/architecture/
 
 
 - https://resources.snowflake.com/
+- https://resources.snowflake.com/solution-briefs/snowflake-cloud-data-platform-solution-brief
+
 
 - https://www.snowflake.com/support/
 
 - https://www.snowflake.com/technology-partners/amazon-web-services/
   + Snowflake on Amazon Web Services (AWS) represents a SQL AWS data warehouse built for the cloud
   + Snowflake's unique architecture natively handles diverse data in a single system, with the elasticity to support any scale of data, workload, and users.
+
 
 
 
@@ -54,6 +60,10 @@
 - https://s3.amazonaws.com/snowflake-workshop-lab/Snowflake_free_trial_LabGuide.pdf
 
 - https://community.snowflake.com/s/get-started
+- https://community.snowflake.com/s/what-is-snowflake
+- https://community.snowflake.com/s/snowflake-ref-architecture
+- https://community.snowflake.com/s/snowflake-security
+
 
 - https://community.snowflake.com/s/migrations
 
@@ -121,7 +131,7 @@
 
 - Snowflake YouTube Channel
   + https://www.youtube.com/channel/UCs10x-muRrTQMJ4Ya-fmIlw
-
+  + https://www.youtube.com/user/snowflakecomputing/videos
 
 - Setting Up Snowflake Elastic Data Warehouse SaaS AWS Marketplace
   + https://www.youtube.com/watch?v=ga3EFKRVht4
