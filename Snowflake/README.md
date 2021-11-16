@@ -22,6 +22,18 @@
   + Snowflake's unique architecture natively handles diverse data in a single system, with the elasticity to support any scale of data, workload, and users.
 
 
+## Case Studies
+
+- https://resources.snowflake.com/case-study
+  + https://resources.snowflake.com/case-study/case-study-wilhelmsen-01
+    * "Among the key features that were attractive to Wilhelmsen were Snowflake Zero-Copy Cloning, Time Travel and Snowflake’s separation of compute and storage, which allowed the company to flexibly scale its data usage."
+
+  + https://resources.snowflake.com/case-study/how-vimeo-leverages-billions-of-streaming-events-to-generate-customer-insights-with-snowflake
+    * "Snowflake’s multi-cluster shared data architecture scaled instantly  to handle Vimeo’s data, users, and workloads."
+    * 200M Vimeo users, Billions of streaming events
+
+  + https://resources.snowflake.com/case-study/first-tech-federal-credit-union-predicts-a-500-roi-by-switching-to-snowflake
+
 
 
 ## AWS Snowflake
@@ -156,6 +168,7 @@
 
 
 ## News
+### 2021 
 
 ### 2015
 - [Snowflake Announces General Availability of their Cloud Data Warehouse Offering](https://www.infoq.com/news/2015/07/snowflake-cloud-data-warehouse/)
