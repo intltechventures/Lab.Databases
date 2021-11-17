@@ -1,6 +1,15 @@
 
 # Snowflake Resources
 
+## Notes
+- 2021-11-16 Tue: I had a call with a Snowflake Sales Engineer - to discuss a client's intended use of Snowflake as an
+  Operational Data Store (ODS) - to query historical transactions. As I suspected, the Sales Engineer confirmed my assumptions:
+  + The design of Snowflake is NOT row-optimized, but column-optimized.
+  + It is NOT designed for OLTP type transaction usage patterns.
+  + It is NOT designed to efficiently retrieve one row out of millions. 
+  + It is NOT designed to efficiently support huge volumes of users running queries. 
+
+
 ## References
 - https://docs.snowflake.com/en/
 - https://docs.snowflake.com/en/user-guide/intro-key-concepts.html
