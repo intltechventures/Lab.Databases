@@ -31,6 +31,12 @@
   + Snowflake's unique architecture natively handles diverse data in a single system, with the elasticity to support any scale of data, workload, and users.
 
 
+- Snowflake on AWS
+  + https://aws.amazon.com/financial-services/partner-solutions/snowflake/
+    * "Snowflake Data Cloud’s Cloud Data Platform can be rapidly deployed on AWS"
+
+
+
 ## Case Studies
 
 - https://resources.snowflake.com/case-study
@@ -43,6 +49,19 @@
 
   + https://resources.snowflake.com/case-study/first-tech-federal-credit-union-predicts-a-500-roi-by-switching-to-snowflake
 
+  + https://infinitelambda.com/post/leveraging-snowflake-data-shares-an-e-commerce-case-study/
+    * "Data sharing is an efficient way to provide third party access to large amounts of data without having to
+      architect a data transfer process."
+    * KM: See the section *Setting up the data warehouse*
+
+- https://www.phdata.io/case-studies/teradata-to-snowflake-migration/
+
+- https://learn.leandata.com/case-studies/snowflake-case-study
+
+- https://www.slalom.com/insights/snowflake-implementation-success
+
+- https://www.capitalone.com/tech/cloud/harnessing-snowflakes-data-cloud/
+  + How Capital One optimized Snowflake for real-time data analysis at scale
 
 
 ## AWS Snowflake
@@ -75,6 +94,11 @@
     * Does all the work. Virtual Warehouses - can have multiple virtual warehouses - working on the same data
   + Service Layer:
     * Understands how the data is formatted, meta data store for state management, enables all DDL functions
+
+
+- Looker
+  - https://infinitelambda.com/post/looker-visualizations/
+
 
 
 ## Educational Resources
@@ -178,6 +202,8 @@
 
 ## News
 ### 2021 
+- https://medium.com/hashmapinc/5-compelling-snowflake-customer-metrics-that-you-need-to-know-a4add70d063
+
 
 ### 2015
 - [Snowflake Announces General Availability of their Cloud Data Warehouse Offering](https://www.infoq.com/news/2015/07/snowflake-cloud-data-warehouse/)
