@@ -4,9 +4,14 @@
 ## Documentation
 
 - Redis.com
+  + https://docs.redis.com/latest/rs/ 
+
+  + Data Integration
+    * https://docs.redis.com/latest/rdi/architecture/
+
 
 - Redis.io
-  + https://github.com/redis/redis
+  + https://redis.io/docs/ 
 
   + https://redis.io/docs/about/
 
@@ -34,3 +39,10 @@
   + High Availability
     * https://redis.io/docs/management/sentinel/
     * https://redis.io/docs/management/replication/
+    * https://redis.io/docs/reference/cluster-spec/
+
+
+## GitHub Repositories
+
+- https://github.com/redis/redis
+
